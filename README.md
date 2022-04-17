@@ -4,3 +4,5 @@ In this project I'm going to use [React](https://reactjs.org/), [Solidity](https
 the Rinkeby test net.
 
 This is my first Smart Contract and will also be my first time using React also. I hope you enjoy it!
+
+<p align="center"><img src='/readmeimg/banner-github.png' width="75%" height="75%" ></p>
