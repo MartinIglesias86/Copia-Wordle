@@ -7,14 +7,18 @@ async function main() {
     await criptdle.deployed();
 
     console.log("La direccion del contrato es: ", criptdle.address);
-
+    /*
     let tx = await criptdle.createWord("sushi");
     tx = await criptdle.createWord("cake");
     tx = await criptdle.createWord("fork");
     tx = await criptdle.createWord("glass");
-    let words = await criptdle.readWords();
-    console.log(words);
+    tx = await criptdle.readWords();
+    console.log(tx);
 
+    tx = await criptdle.useWord("glass");
+    tx = await criptdle.words("glass");
+    console.log(tx);
+    */
 }
 
 main()
