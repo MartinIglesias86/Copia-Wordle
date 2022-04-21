@@ -7,18 +7,20 @@ async function main() {
     await criptdle.deployed();
 
     console.log("La direccion del contrato es: ", criptdle.address);
-    /*
-    let tx = await criptdle.createWord("sushi");
-    tx = await criptdle.createWord("cake");
-    tx = await criptdle.createWord("fork");
-    tx = await criptdle.createWord("glass");
-    tx = await criptdle.readWords();
-    console.log(tx);
+    
+    // let tx = await criptdle.createWord("ether");
+    // tx = await criptdle.createWord("btc");
+    // tx = await criptdle.createWord("fork");
+    // tx = await criptdle.createWord("hash");
+    // tx = await criptdle.createWord("swap");
+    // tx = await criptdle.createWord("hodl");
+    // tx = await criptdle.createWord("memecoin");
+    // tx = await criptdle.createWord("blockchain");
+    // tx = await criptdle.createWord("atom");
+    // tx = await criptdle.createWord("usdt");
 
-    tx = await criptdle.useWord("glass");
-    tx = await criptdle.words("glass");
-    console.log(tx);
-    */
+    // tx = await criptdle.getWord();
+
 }
 
 main()
