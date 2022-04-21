@@ -8,4 +8,4 @@ This is my first Smart Contract and will also be my first time using React also.
 <p align="center"><img src='/readmeimg/banner-github.png' width="75%" height="75%" ></p>
 
 ## Test deploy
-Publicado en [Rinkeby Testnet Network](https://rinkeby.etherscan.io/address/0x155CA8604B3C2258815c7a7BCc6548ec2885Ac63)
+Smart contract deployed in [Rinkeby Testnet Network](https://rinkeby.etherscan.io/address/0x155CA8604B3C2258815c7a7BCc6548ec2885Ac63)
